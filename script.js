@@ -1,4 +1,4 @@
-    //initial Data
+//initial Data
     let currentColor = 'black';
     let canDraw = false;
     let mouseX = 0
